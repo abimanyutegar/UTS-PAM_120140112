@@ -1,1 +1,5 @@
 # UTS-PAM_120140112
+UTS PAM 2023
+Nama: Tegar Abimanyu
+NIM: 120140112
+Kelas : RB
